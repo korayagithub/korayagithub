@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korayagithub.
-- 👀 I’m interested in programming, plants and gardening, mathematics, statistics and data analysis, and languages.
+- 👀 I’m interested in programming, plants and gardening, photography, traveling, mathematics, statistics and data analysis, and languages.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on some basic projects.
 - 📫 How to reach me: korayaemail@gmail.com
